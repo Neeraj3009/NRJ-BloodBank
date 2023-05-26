@@ -1,4 +1,4 @@
-Donor: Neeraj (AB+) , Kanishk (B+) , Arun (O-) , Niruktt (A-) , Akshay (B-)  
+Donor: Neeraj (AB+) , Kanishk (B+) , Arun (O-) , Niruktt (A-) , Akshay (B-) , Venkat (AB-)  
 
 Hospital: Ganga Ram (Pankaj) , Kailash (Dheeraj)
 
