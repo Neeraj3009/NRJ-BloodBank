@@ -1,0 +1,21 @@
+Donor: Neeraj (AB+) , Kanishk (B+) , Arun (O-) , Niruktt (A-) , Akshay (B-)  
+
+Hospital: Ganga Ram (Pankaj) , Kailash (Dheeraj)
+
+Organization: Hope BloodBank (Vivek) , Life BloodBank (Vijay)
+
+.................................................................
+
+For Org
+	Add Donations - Inventory In
+	Add Hospitals - Inventory Out
+	List Donars data and History
+	List Hospital data and History
+	Dashboard
+
+For Hospital
+	List Orgaization data and history
+
+For Donars
+	List Organizations, Donations data
+ 
